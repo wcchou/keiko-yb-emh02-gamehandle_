@@ -1,0 +1,9 @@
+{
+    "kGameHandle.Rocker|block": "遊戲手把",
+	"kGameHandle.RockerState.Unknown|block": "未知",
+	"kGameHandle.RockerState.Up|block": "上",
+	"kGameHandle.RockerState.Down|block": "下",
+	"kGameHandle.RockerState.Left|block": "左",
+	"kGameHandle.RockerState.Right|block": "右",
+	"kGameHandle.RockerState.Pressed|block": "按下"
+}
